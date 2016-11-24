@@ -133,8 +133,8 @@ var app = {
           console.log('[Scan]bssid: ' + bssid + ', '
           + 'ssid: ' + ssid + ', '
           + 'frequency: ' + frequency + 'MHz, '
-          + 'level: ' + level + 'dBm'
-          + 'capabilities: ' + capabilities
+          + 'level: ' + level + 'dBm, '
+          + 'capabilities: ' + capabilities + ', '
           + 'channel: ' + channel
           );
         }
